@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "289145570146",
+    "project_id": "e-commerce-app-48081",
+    "storage_bucket": "e-commerce-app-48081.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289145570146:android:def193ea3e32393320623b",
+        "android_client_info": {
+          "package_name": "com.mona.adel.ecommerceapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_TzGwF7v34qscKHX2YzpbCm4r0Lt-rkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
